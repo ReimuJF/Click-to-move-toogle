@@ -1,0 +1,7 @@
+## Interface: 110005
+   ## Title: Click To Move Toggle
+   ## Notes: Disable click to move in combat
+   ## Author: Lisichkoslav 
+   ## Version: 1.0
+
+   ClickToMoveToggle.lua
